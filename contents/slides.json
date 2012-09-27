@@ -37,12 +37,12 @@
 
     {
         "slide_title": "Title of the Slide" 
-      , "code": "&lt;script type='text/javascript'&gt;\n  // Say hello world until the user starts questioning\n  // the meaningfulness of their existence.\n  function helloWorld(world) {\n    for (var i = 42; --i &gt;= 0;) {\n      alert('Hello ' + String(world));\n    }\n  }\n&lt;/script&gt;\n&lt;style&gt;\n  p { color: pink }\n  b { color: blue }\n  u { color: 'umber' }\n&lt;/style&gt;\n"
+      , "code": "<script type='text/javascript'>\n  // Say hello world until the user starts questioning\n  // the meaningfulness of their existence.\n  function helloWorld(world) {\n    for (var i = 42; --i >= 0;) {\n      alert('Hello ' + String(world));\n    }\n  }\n</script>\n<style>\n  p { color: pink }\n  b { color: blue }\n  u { color: 'umber' }\n</style>\n"
     },
 
     {
         "slide_title": "Title of the Slide" 
-      , "code": "&lt;script type='text/javascript'&gt;\n  // Say hello world until the user starts questioning\n  // the meaningfulness of their existence.\n  function helloWorld(world) {\n    for (var i = 42; --i &gt;= 0;) {\n      alert('Hello ' + String(world));\n    }\n  }\n&lt;/script&gt;\n&lt;style&gt;\n  p { color: pink }\n  b { color: blue }\n  u { color: 'umber' }\n&lt;/style&gt;\n"
+      , "code": "<script type='text/javascript'>\n  // Say hello world until the user starts questioning\n  // the meaningfulness of their existence.\n  function helloWorld(world) {\n    for (var i = 42; --i >= 0;) {\n      alert('Hello ' + String(world));\n    }\n  }\n</script>\n<style>\n  p { color: pink }\n  b { color: blue }\n  u { color: 'umber' }\n</style>\n"
       , "secondary_text": "This explains the code block"
     },
 
